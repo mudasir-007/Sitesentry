@@ -1,0 +1,17 @@
+{
+  "residential": {
+    "tier_1": {"min": 1800, "max": 3500},
+    "tier_2": {"min": 1200, "max": 2200},
+    "tier_3": {"min": 800, "max": 1500}
+  },
+  "commercial": {
+    "tier_1": {"min": 2500, "max": 5000},
+    "tier_2": {"min": 1800, "max": 3200},
+    "tier_3": {"min": 1200, "max": 2500}
+  },
+  "industrial": {
+    "tier_1": {"min": 2000, "max": 4000},
+    "tier_2": {"min": 1500, "max": 2800},
+    "tier_3": {"min": 1000, "max": 2000}
+  }
+}
